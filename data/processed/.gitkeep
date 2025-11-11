@@ -1,0 +1,5 @@
+# Ignorar los datos procesados
+data/processed/
+
+# Ignorar modelos entrenados
+models/
